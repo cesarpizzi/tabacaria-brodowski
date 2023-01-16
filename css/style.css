@@ -25,7 +25,7 @@ body {
     align-items: center;
 }
 .filho {
-    width: 80%;
+    width: 65%;
     background-coor: brown;
 }
 p {
@@ -34,7 +34,7 @@ p {
     background-image: linear-gradient(to bottom, rgb(255, 230, 0), rgb(255, 166, 0));
     
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     
     padding-top: 20px;
     padding-bottom: 20px;
