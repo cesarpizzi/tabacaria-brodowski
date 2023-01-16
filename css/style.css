@@ -29,7 +29,6 @@ body {
 }
 p {
     border-radius: 15px;
-    background-color: black;
     background-image: linear-gradient(to bottom, rgb(255, 230, 0), rgb(255, 166, 0));
     
     text-align: center;
@@ -50,7 +49,7 @@ a {
 }
 a:hover {
     color: blueviolet;
-    cursor: cell;
+    cursor: ;
     
 
 }
