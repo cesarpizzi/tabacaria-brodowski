@@ -44,7 +44,7 @@ p {
 }
 a {
     color: hsl(54, 100%, 95%);
-    font-size: 5em;
+    font-size: 4em;
     font-weight: bold;
     text-shadow: 2px 2px 0px hsl(54, 100%, 5%);
     text-decoration: none;
