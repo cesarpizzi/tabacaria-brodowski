@@ -17,15 +17,14 @@ body {
     align-items: center;
 }
 .pai {
-    width: 800px;
-    height: 800px;
-    background-olor: white;
+    width: 100%;
+    backgroundcolor: white;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .filho {
-    width: 65%;
+    min-width: 35%;
     background-coor: brown;
 }
 p {
@@ -44,7 +43,7 @@ p {
 }
 a {
     color: hsl(54, 100%, 95%);
-    font-size: 3.5em;
+    font-size: 5vw;
     font-weight: bold;
     text-shadow: 2px 2px 0px hsl(54, 100%, 5%);
     text-decoration: none;
